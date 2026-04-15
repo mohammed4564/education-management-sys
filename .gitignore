@@ -1,0 +1,13 @@
+# SQLite database
+db.sqlite3
+# .env 
+.env
+
+
+# Python
+__pycache__/
+*.pyc
+
+# Django
+media/
+staticfiles/
